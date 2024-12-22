@@ -47,8 +47,4 @@ I appreciate any suggestions or improvements to enhance my portfolio website. If
 
 ## License
 
-This project is licensed under the [Parth Kumar Singh](LICENSE).
-
-##  📧 Contact  🎉
-
-If you have any questions, feedback, or collaboration opportunities, feel free to reach out to me at [parthksingh1@gmail.com](mailto:your-parthksingh1@gmail.com).
+This project is licensed under the MOHAMMED ANAS.
